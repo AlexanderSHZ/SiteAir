@@ -1,0 +1,1493 @@
+<!DOCTYPE html>
+<html lang="ua">
+<head>
+	<!--[if lt IE 9]><script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]-->
+	<title>Школа пілотів // Харківський аероклуб ім. В.С. Гризодубової ТСОУ</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"  />
+	<meta name="keywords" content="харків, авіація, авіаклуб, літак, вертоліт, парашут, авіашоу, Коротич, Гризодубова, небо, польоти" />
+	<meta name="description" content="Обучение и развитие навыков пилотов" />
+	<link rel="image_src" href="/content/soical-img/services.jpg">
+	<link rel="canonical" href="http://aeroclub.net.ua/services/ua/training.html" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1">
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+	<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+	<link rel="manifest" href="/manifest.json">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+	<meta name="theme-color" content="#ffffff">
+
+	<link href="/templates/css/main.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&amp;subset=cyrillic-ext" rel="stylesheet">
+
+	<meta property="og:site_name" content="Харківський аероклуб ім. В.С. Гризодубової ТСОУ" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Школа пілотів // Харківський аероклуб ім. В.С. Гризодубової ТСОУ" />
+	<meta property="og:description" content="Обучение и развитие навыков пилотов" />
+	<meta property="og:locale" content="ua_UA" />
+	<meta property="og:url" content="http://aeroclub.net.ua/services/ua/training.html" />
+
+	<meta property="og:image" content="/content/soical-img/services.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+
+  	<meta name="twitter:image" content="/content/soical-img/services.jpg" />
+	<meta property="fb:pages" content="107719585961765" />
+
+	<meta name="yandex-verification" content="24d8175577b51e74" />
+	<meta name="google-site-verification" content="ZlLJG-f3GAZSuKNk0E_4TgCRQGWsYT9iwf20vXMgVr0" />
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!--[if lt IE 9]>
+  <script type="text/javascript" src="/templates/js/excanvas/excanvas.js"></script>
+<![endif]-->
+
+<script type="text/javascript" src="/templates/js/spinners/spinners.min.js"></script>
+<script type="text/javascript" src="/templates/js/lightview/lightview.js"></script>
+<script type="text/javascript" src="/templates/js/jquery.fitvids.js"></script>
+<script type="text/javascript" src="/templates/js/jquery.scrollTo.min.js"></script>
+
+<script type="text/javascript" src="/templates/js/jquery.bxslider.min.js"></script>
+
+
+
+<link rel="stylesheet" type="text/css" href="/templates/css/lightview/lightview.css" />
+
+
+
+<script>
+$(document).ready(function(){
+});
+</script>
+
+
+
+
+<script>
+$(document).ready(function() {
+$(".intro-snippets a").hover(function(){$(this).find('span').toggle('slow');});
+
+$("aside").fitVids();
+$("article").fitVids();
+
+
+$(".search-ico").bind( "click", function() {
+
+$("nav .menu-right").hide();
+$("nav .search-form").show();
+$("nav .search-ico").hide();
+$(".search-form input.search-field").focus();
+
+
+});
+
+
+    $(document).mouseup(function (e){
+        var div = $('.search-form');
+        if (!div.is(e.target) //
+            && div.has(e.target).length === 0) {
+            div.hide();
+            $("nav .menu-right").show();
+            $("nav .search-ico").show();
+        }
+    });
+
+$('.search-submit').click(function(e) {
+        e.preventDefault();
+        $("#search-form").submit();
+    });
+
+
+
+});
+
+</script>
+
+
+<script>
+
+
+
+$(document).ready(function(){
+
+$('a[href^="http://"], a[href^="https://"]').attr('target','_blank');
+
+var obj = $('aside.sticky');
+
+var offset = obj.offset();
+var topOffset = offset.top;
+var leftOffset = offset.left;
+var marginTop = obj.css("Top");
+var asideWidth = obj.css("width");
+
+
+$(window).scroll(function() {
+var scrollTop = $(window).scrollTop();
+
+if ($('body').width() > 500 && $('body').height() - obj.height() > 30 ) {
+
+	if (scrollTop >= topOffset){
+
+		obj.css({
+			top: '1px',
+            width: asideWidth,
+			position: 'fixed',
+		});
+	}
+
+	if (scrollTop < topOffset){
+
+		obj.css({
+			top: marginTop,
+			position: 'relative',
+		});
+	}
+}
+
+
+
+});
+});
+
+
+</script>
+
+
+
+
+
+
+<script>
+$(document).ready(function(){
+
+$("#events-link").hover( function(){$( "#events-menu" ).fadeToggle(300)} );
+$("#services-link").hover( function(){$( "#services-menu" ).fadeToggle(300)} );
+$("#about-link").hover( function(){$( "#about-menu" ).fadeToggle(300)} );
+$("#aerotechnics-link").hover( function(){$( "#aerotechnics-menu" ).fadeToggle(300)} );
+
+});
+</script>
+
+
+
+<style>
+
+body {
+background-image:url(/templates/img/bg/training.jpg);
+} 
+</style>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-122368155-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-122368155-1');
+</script>
+
+
+</head>
+
+<body>
+
+
+
+<!-- Yandex.Metrika counter --> <script type="text/javascript"> (function (d, w, c) { (w[c] = w[c] || []).push(function() { try { w.yaCounter44046329 = new Ya.Metrika({ id:44046329, clickmap:true, trackLinks:true, accurateTrackBounce:true, webvisor:true }); } catch(e) { } }); var n = d.getElementsByTagName("script")[0], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "https://d31j93rd8oukbv.cloudfront.net/metrika/watch_ua.js"; if (w.opera == "[object Opera]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "yandex_metrika_callbacks"); </script> <noscript><div><img src="https://mc.yandex.ru/watch/44046329" style="position:absolute; left:-9999px;" alt="" /></div></noscript> <!-- /Yandex.Metrika counter -->
+
+
+
+
+
+<div class="wrapper">
+
+	<header class="header">
+                              
+<div class="section group">
+	<div class="col span_7_of_12">
+	<a href="/ua/" class="logo logo-ua"><p>Харківський аероклуб<br />ім.&nbsp;В.С.&nbsp;Гризодубової ТСО&nbsp;України</p></a>
+	</div>
+	<div class="col span_5_of_12" style="margin-bottom:0;">
+
+<a href="/airdrome/ua/meteo.html">
+	<div class="meteo" style="background-image:url(/templates/img/meteo/01d.png)">
+	 <span class="temp" title="температура повітря: 31&deg; C">31&deg; C</span>
+	 <span class="wind" title="вітер північний, 4 м/с"><img src="/templates/img/meteo/meteo-icons-wind.png" alt=""   style="transform: rotate(359deg);" />4 м/с</span>
+	 <br />
+	 <span class="humidity" title="відносна вологість: 31%">31%</span>
+	 <span class="pressure" title="атмосферний тиск: 749 мм рт.ст.">749</span>
+	</div>
+</a>
+
+
+
+
+	<ul class="social-ico">
+	<li><a href="https://www.facebook.com/KorotychAerodrome/" class="fb">Facebook</a></li>
+	<li><a href="https://youtube.com/c/ХарьковскийАэроклуб" class="yt">YouTube</a></li>
+ 	<li><a href="https://www.instagram.com/kharkiv_aeroclub/" class="in">Instagram</a></li>
+	</ul>
+
+
+
+	<div class="award">
+	<a href="/events/ua/201-itogi2017.html" class="award17s" style="background-image:url(/templates/img/award2017s-ua.png)"></a>
+    <a href="/events/ua/309-results2018.html" class="award18s" style="background-image:url(/templates/img/award2018s-ua.png)"></a>
+    <a href="/events/ua/473-results2019.html" class="award19s"></a>
+    <a href="/events/ua/708-results2020.html" class="award20s"></a>
+	<br /><a href="/services/training.html" class="change-lang-button">на русском языке</a><a href="/english/" class="change-lang-button" style="margin-right:10px;">in english</a>	</div>
+
+    
+
+</div>
+
+
+
+</div>
+
+<div class="section group">
+	<div class="col span_12_of_12" style="margin:0">
+		<nav>
+		<ul>
+		<li id="aerotechnics-link"><a href="/aerotechnics/ua/index.html">Авіатехніка</a>
+
+		      <ul id="aerotechnics-menu">
+					<li><a href="/aerotechnics/ua/l29.html">Л-29</a></li>
+					<li><a href="/aerotechnics/ua/haz30.html">ХАЗ-30</a></li>
+					<li><a href="/aerotechnics/ua/an28.html">Ан-28</a></li>
+					<li><a href="/aerotechnics/ua/su31.html">Су-31</a></li>
+					<li><a href="/aerotechnics/ua/mi2.html">Мі-2</a></li>
+					<li><a href="/aerotechnics/ua/ak13.html">АК-1-3</a></li>
+					<li><a href="/aerotechnics/ua/yak52.html">Як-52</a></li>
+					<li><a href="/aerotechnics/ua/yak18t.html">Як-18Т</a></li>
+					<li><a href="/aerotechnics/ua/an2.html">Ан-2</a></li>
+					<li><a href="/aerotechnics/ua/cessna182.html">Cessna 182</a></li>
+					<li><a href="/aerotechnics/ua/cessna337.html">Cessna 337</a></li>
+					<li><a href="/aerotechnics/ua/f15f.html">F-15F аматорської конструкції</a></li>
+					<li><a href="/aerotechnics/ua/ctsw.html">Flight design CTSW</a></li>
+					<li><a href="/aerotechnics/ua/rc3seabee.html">RC-3 Seabee</a></li>
+					<li><a href="/aerotechnics/ua/alouette.html">Alouette - М III</a></li>
+    		  </ul>
+		</li>
+		<li id="services-link"><a href="/services/ua/index.html">Послуги</a>
+
+			<ul id="services-menu">
+    <li><a href="/services/ua/skydiving.html">Стрибки з парашутом</a></li>
+    <li><a href="/services/ua/flight.html">Ознайомлювальні польоти</a></li>
+	<li><a href="/services/ua/giftcertificates.html">Подарункові сертифікати</a></li>
+    <li><a href="/services/ua/training.html">Школа пілотів</a></li>
+    <li><a href="/services/ua/excursions.html">Екскурсії</a></li>
+    <li><a href="/services/ua/airexcursions.html">Повітряні екскурсії</a></li>
+    <li><a href="/services/ua/festivals.html">Фестивалі/Авіашоу</a></li>
+	<li><a href="/services/ua/photosessions.html">Фотосесії/зйомки</a></li>
+	<li><a href="/services/ua/chemical.html">Авіаційно-хімічні роботи</a></li>
+	<li><a href="/services/ua/airlineservices.html">Послуги авіакомпанії</a></li>
+	<li><a href="/services/ua/maintenance.html">Техобслуговування ПС</a></li>
+	<li><a href="/services/ua/airworthiness.html">Підтримання льотної придатності</a></li>
+	<li><a href="/services/ua/pricelist.html">Загальний прайс</a></li>
+			</ul>
+        </li>
+
+		<li id="events-link"><a href="/ua/events.html">Заходи</a>
+
+			<ul id="events-menu">
+			<li><a href="/events/ua/index.html">Новини</a></li>
+			
+            <li><a href="/aviafest/">KharkivAviaFest - 2021</a></li>
+			<li><a href="/mirnoe-nebo/ua/dityatko.html">Дитятко - 2021</a></li>
+			<li><a href="/misc/ua/calendar2021.html">План парашутних заходів – 2021</a></li>
+			<li><a href="/events/ua/events2021.html">Перелік заходів</a></li>
+			<li><a href="/services/ua/flight.html">Польоти</a></li>
+			<li><a href="/services/ua/skydiving.html">Стрибки</a></li>
+			<li><a href="/services/ua/excursions.html">Екскурсії</a></li>
+			</ul>
+
+
+		</li>
+		<li><a href="/gallery/ua/index.html">Галерея</a></li>
+
+		<li id="about-link"><a href="/about/ua/index.html">Про клуб</a>
+
+		    <ul id="about-menu">
+			 <li><a href="/events/ua/477-history.html">Історія</a></li>
+			 <li><a href="/about/ua/pilots.html">Льотно-інструкторський склад</a></li>
+			 <li><a href="/events/ua/events2021.html">Заходи</a></li>
+			 <li><a href="/about/ua/aerobaticgroup.html">Пілотажна група</a></li>
+			 <li><a href="/services/ua/festivals.html">Фестивалі/Авіашоу</a></li>
+			 <li><a href="/about/ua/membership.html">Членство в Харківському аероклубі</a></li>
+			 <li><a href="/ua/museum.html">Музей</a></li>
+			 <li><a href="/events/ua/469-museum.html">Музей історії авіації Харківського аероклубу</a></li>
+			 <li><a href="/about/ua/safety.html">Система управління безпекою</a></li>
+			 <li><a href="/about/ua/patrioticwork.html">Військово-патріотична та соціальна робота</a></li>
+			 <li><a href="/about/ua/cadets.html">Військові курсанти</a></li>
+			 <li><a href="/wings-kharkiv/ua/index.html">Крила над Харковом</a></li>
+			 <li><a href="/services/ua/excursions.html">Екскурсії</a></li>
+			 <li><a href="/mirnoe-nebo/ua/index.html">Наше мирне небо</a></li>
+			 <li><a href="/about/ua/awards.html">Наші нагороди</a></li>
+			 <li><a href="/about/ua/certificates.html">Сертифікати організації</a></li>
+			 <li><a href="/about/ua/books.html">Книги про аероклуб</a></li>
+			 <li><a href="/about/ua/index.html#partners">Партнери</a></li>
+		    </ul>
+
+
+
+		</li>
+
+		<li><a href="/ua/publications.html">ЗМІ про нас</a></li>
+		<li><a href="/services/ua/pricelist.html">Прайс</a></li>
+		<li><a href="/airdrome/ua/index.html">Аеродром</a></li>
+		<li class="search-area"><a href="/search/ua/" class="search-ico" onclick="return false;" nofollow="nofollow">пошук</a>
+
+		<div class="search-form">
+		<form action="/search/ua/" name="search-form" id="search-form">
+		<input type="text" name="q" placeholder="пошук" class="search-field" /><a href="#" class="search-submit">знайти</a>
+		</form>
+		</div>
+		</li>
+
+		<li class="menu-right"><a href="/ua/contacts.html">Контакти</a></li>
+		<li class="menu-right"><a href="/ua/address.html">Як дістатися</a></li>
+		</ul>
+		</nav>
+	</div>
+</div>
+
+
+	</header><!-- .header-->
+
+
+	<main class="content">
+
+
+
+
+
+
+
+
+
+
+
+
+
+     <h1>Школа пілотів</h1>
+<div class="section group">
+
+
+
+	<div class="col span_8_of_12">
+
+
+<article>
+
+
+
+
+
+
+<link href="/templates/js/fotorama/fotorama.css" rel="stylesheet">
+<script src="/templates/js/fotorama/fotorama.js"></script>
+
+<script>
+$(function () {
+  $('.training1').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 6/4,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+
+
+{img: '/content/services/training/photo1/DSC_0942.jpg', thumb: '/content/services/training/photo1/thumb/DSC_0942.jpg'},
+
+
+{img: '/content/services/training/photo3/IMG_1357.jpg', thumb: '/services/training/photo3/thumb/IMG_1357.jpg'},
+{img: '/content/services/training/photo3/IMG_1363.jpg', thumb: '/services/training/photo3/thumb/IMG_1363.jpg'},
+{img: '/content/services/training/photo3/_DSC3377.jpg', thumb: '/services/training/photo3/thumb/_DSC3377.jpg'},
+{img: '/content/services/training/photo3/_DSC3385.jpg', thumb: '/services/training/photo3/thumb/_DSC3385.jpg'},
+{img: '/content/services/training/photo3/_DSC3387.jpg', thumb: '/services/training/photo3/thumb/_DSC3387.jpg'},
+{img: '/content/services/training/photo3/_DSC3448.jpg', thumb: '/services/training/photo3/thumb/_DSC3448.jpg'},
+{img: '/content/services/training/photo3/_DSC3474.jpg', thumb: '/services/training/photo3/thumb/_DSC3474.jpg'},
+{img: '/content/services/training/photo3/_DSC3476.jpg', thumb: '/services/training/photo3/thumb/_DSC3476.jpg'},
+
+
+{img: '/content/events/535/DSC06816.jpg', thumb: '/content/events/535/thumb/DSC06816.jpg'},
+{img: '/content/events/535/DSC06826.jpg', thumb: '/content/events/535/thumb/DSC06826.jpg'},
+{img: '/content/events/535/DSC06828.jpg', thumb: '/content/events/535/thumb/DSC06828.jpg'},
+{img: '/content/events/535/DSC06873.jpg', thumb: '/content/events/535/thumb/DSC06873.jpg'},
+{img: '/content/events/535/DSC06890.jpg', thumb: '/content/events/535/thumb/DSC06890.jpg'},
+
+{img: '/content/services/training/photo1/DSC_0981.jpg', thumb: '/content/services/training/photo1/thumb/DSC_0981.jpg'},
+{img: '/content/events/503/01.jpg', thumb: '/content/events/503/thumb/01.jpg'},
+{img: '/content/events/503/02.jpg', thumb: '/content/events/503/thumb/02.jpg'},
+{img: '/content/events/503/03.jpg', thumb: '/content/events/503/thumb/03.jpg'},
+{img: '/content/events/503/04.jpg', thumb: '/content/events/503/thumb/04.jpg'},
+
+{img: '/content/services/training/photo1/DSC_1388.jpg', thumb: '/content/services/training/photo1/thumb/DSC_1388.jpg'},
+
+{img: '/content/events/230/01.jpg', thumb: '/content/services/training/photo1/thumb/t01.jpg'},
+{img: '/content/events/230/02.jpg', thumb: '/content/services/training/photo1/thumb/t02.jpg'},
+{img: '/content/about/patrioticwork/01.jpg', thumb: '/content/services/training/photo1/thumb/tt01.jpg'},
+
+{img: '/content/services/training/photo1/100.jpg', thumb: '/content/services/training/photo1/thumb/100.jpg'},
+{img: '/content/services/training/photo1/101.jpg', thumb: '/content/services/training/photo1/thumb/101.jpg'},
+{img: '/content/services/training/photo1/102.jpg', thumb: '/content/services/training/photo1/thumb/102.jpg'},
+{img: '/content/services/training/photo1/103.jpg', thumb: '/content/services/training/photo1/thumb/103.jpg'},
+{img: '/content/services/training/photo1/104.jpg', thumb: '/content/services/training/photo1/thumb/104.jpg'},
+{img: '/content/services/training/photo1/106.jpg', thumb: '/content/services/training/photo1/thumb/106.jpg'},
+{img: '/content/services/training/photo1/110.jpg', thumb: '/content/services/training/photo1/thumb/110.jpg'},
+{img: '/content/services/training/photo1/108.jpg', thumb: '/content/services/training/photo1/thumb/108.jpg'},
+{img: '/content/services/training/photo1/109.jpg', thumb: '/content/services/training/photo1/thumb/109.jpg'},
+
+
+
+    ]
+
+  	});
+
+    $('.training2').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/events/535/DSC06836.jpg', thumb: '/content/events/535/thumb/DSC06836.jpg'},
+
+{img: '/content/services/training/photo4/301.jpg', thumb: '/services/training/photo4/thumb/301.jpg'},
+{img: '/content/services/training/photo4/302.jpg', thumb: '/services/training/photo4/thumb/302.jpg'},
+{img: '/content/services/training/photo4/303.jpg', thumb: '/services/training/photo3/thumb/303.jpg'},
+{img: '/content/services/training/photo4/304.jpg', thumb: '/services/training/photo4/thumb/304.jpg'},
+{img: '/content/services/training/photo4/305.jpg', thumb: '/services/training/photo4/thumb/305.jpg'},
+{img: '/content/services/training/photo4/306.jpg', thumb: '/services/training/photo4/thumb/306.jpg'},
+{img: '/content/services/training/photo4/307.jpg', thumb: '/services/training/photo4/thumb/307.jpg'},
+{img: '/content/services/training/photo4/308.jpg', thumb: '/services/training/photo4/thumb/308.jpg'},
+
+
+{img: '/content/services/training/photo2/206.jpg', thumb: '/content/services/training/photo2/thumb/206.jpg'},
+{img: '/content/events/503/06.jpg', thumb: '/content/events/503/thumb/06.jpg'},
+{img: '/content/events/503/10.jpg', thumb: '/content/events/503/thumb/10.jpg'},
+{img: '/content/events/503/11.jpg', thumb: '/content/events/503/thumb/11.jpg'},
+{img: '/content/events/503/13.jpg', thumb: '/content/events/503/thumb/13.jpg'},
+{img: '/content/events/503/14.jpg', thumb: '/content/events/503/thumb/14.jpg'},
+{img: '/content/events/503/18.jpg', thumb: '/content/events/503/thumb/18.jpg'},
+{img: '/content/events/503/19.jpg', thumb: '/content/events/503/thumb/19.jpg'},
+{img: '/content/events/503/20.jpg', thumb: '/content/events/503/thumb/20.jpg'},
+{img: '/content/events/503/22.jpg', thumb: '/content/events/503/thumb/22.jpg'},
+{img: '/content/events/503/23.jpg', thumb: '/content/events/503/thumb/23.jpg'},
+
+{img: '/content/services/training/photo2/200.jpg', thumb: '/content/services/training/photo2/thumb/200.jpg'},
+{img: '/content/services/training/photo2/201.jpg', thumb: '/content/services/training/photo2/thumb/201.jpg'},
+{img: '/content/services/training/photo2/202.jpg', thumb: '/content/services/training/photo2/thumb/202.jpg'},
+{img: '/content/services/training/photo2/203.jpg', thumb: '/content/services/training/photo2/thumb/203.jpg'},
+{img: '/content/services/training/photo2/204.jpg', thumb: '/content/services/training/photo2/thumb/204.jpg'},
+{img: '/content/services/training/photo2/205.jpg', thumb: '/content/services/training/photo2/thumb/205.jpg'},
+{img: '/content/services/training/photo2/207.jpg', thumb: '/content/services/training/photo2/thumb/207.jpg'},
+{img: '/content/services/training/photo2/208.jpg', thumb: '/content/services/training/photo2/thumb/208.jpg'},
+{img: '/content/services/training/photo2/209.jpg', thumb: '/content/services/training/photo2/thumb/209.jpg'},
+{img: '/content/services/training/photo2/210.jpg', thumb: '/content/services/training/photo2/thumb/210.jpg'},
+
+
+    ]
+
+  	});
+
+   $('.training3').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+
+
+{img: '/content/events/554/12.jpg', thumb: '/content/events/554/thumb2/12.jpg'},
+{img: '/content/events/554/13.jpg', thumb: '/content/events/554/thumb2/13.jpg'},
+{img: '/content/events/554/14.jpg', thumb: '/content/events/554/thumb2/14.jpg'},
+{img: '/content/events/554/15.jpg', thumb: '/content/events/554/thumb2/15.jpg'},
+{img: '/content/events/554/11.jpg', thumb: '/content/events/554/thumb2/11.jpg'},
+{img: '/content/events/554/16.jpg', thumb: '/content/events/554/thumb2/16.jpg'},
+{img: '/content/events/554/17.jpg', thumb: '/content/events/554/thumb2/17.jpg'},
+{img: '/content/events/554/100.jpg', thumb: '/content/events/554/thumb2/100.jpg'},
+{img: '/content/events/554/02.jpg', thumb: '/content/events/554/thumb2/02.jpg'},
+{img: '/content/events/554/03.jpg', thumb: '/content/events/554/thumb2/03.jpg'},
+{img: '/content/events/554/06.jpg', thumb: '/content/events/554/thumb2/06.jpg'},
+{img: '/content/events/554/07.jpg', thumb: '/content/events/554/thumb2/07.jpg'},
+{img: '/content/events/554/08.jpg', thumb: '/content/events/554/thumb2/08.jpg'},
+
+
+    ]
+
+  	});
+
+
+
+   $('.training4').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+
+
+      {img: '/content/events/498/21.jpg', thumb: '/content/events/498/thumb2/21.jpg'},
+      {img: '/content/events/498/01.jpg', thumb: '/content/events/498/thumb2/01.jpg'},
+      {img: '/content/events/498/04.jpg', thumb: '/content/events/498/thumb2/04.jpg'},
+      {img: '/content/events/498/06.jpg', thumb: '/content/events/498/thumb2/06.jpg'},
+      {img: '/content/events/498/13.jpg', thumb: '/content/events/498/thumb2/13.jpg'},
+
+      {img: '/content/events/604/DSC00668.jpg', thumb: '/content/events/604/thumb/DSC00668.jpg'},
+      {img: '/content/events/604/DSC00630.jpg', thumb: '/content/events/604/thumb/DSC00630.jpg'},
+      {img: '/content/events/604/DSC00632.jpg', thumb: '/content/events/604/thumb/DSC00632.jpg'},
+      {img: '/content/events/604/DSC00633.jpg', thumb: '/content/events/604/thumb/DSC00633.jpg'},
+      {img: '/content/events/604/DSC00634.jpg', thumb: '/content/events/604/thumb/DSC00634.jpg'},
+      {img: '/content/events/604/DSC00635.jpg', thumb: '/content/events/604/thumb/DSC00635.jpg'},
+      {img: '/content/events/604/DSC00637.jpg', thumb: '/content/events/604/thumb/DSC00637.jpg'},
+      {img: '/content/events/604/DSC00639.jpg', thumb: '/content/events/604/thumb/DSC00639.jpg'},
+      {img: '/content/events/604/DSC00643.jpg', thumb: '/content/events/604/thumb/DSC00643.jpg'},
+      {img: '/content/events/604/DSC00644.jpg', thumb: '/content/events/604/thumb/DSC00644.jpg'},
+      {img: '/content/events/604/DSC00646.jpg', thumb: '/content/events/604/thumb/DSC00646.jpg'},
+      {img: '/content/events/604/DSC00647.jpg', thumb: '/content/events/604/thumb/DSC00647.jpg'},
+      {img: '/content/events/604/DSC00651.jpg', thumb: '/content/events/604/thumb/DSC00651.jpg'},
+      {img: '/content/events/604/DSC00653.jpg', thumb: '/content/events/604/thumb/DSC00653.jpg'},
+      {img: '/content/events/604/DSC00656.jpg', thumb: '/content/events/604/thumb/DSC00656.jpg'},
+      {img: '/content/events/604/DSC00657.jpg', thumb: '/content/events/604/thumb/DSC00657.jpg'},
+      {img: '/content/events/604/DSC00659.jpg', thumb: '/content/events/604/thumb/DSC00659.jpg'},
+      {img: '/content/events/604/DSC00661.jpg', thumb: '/content/events/604/thumb/DSC00661.jpg'},
+      {img: '/content/events/604/DSC00663.jpg', thumb: '/content/events/604/thumb/DSC00663.jpg'},
+      {img: '/content/events/604/DSC00666.jpg', thumb: '/content/events/604/thumb/DSC00666.jpg'},
+      {img: '/content/events/604/DSC00667.jpg', thumb: '/content/events/604/thumb/DSC00667.jpg'},
+
+      {img: '/content/events/604/DSC00671.jpg', thumb: '/content/events/604/thumb/DSC00671.jpg'},
+      {img: '/content/events/604/DSC00681.jpg', thumb: '/content/events/604/thumb/DSC00681.jpg'},
+      {img: '/content/events/604/DSC00684.jpg', thumb: '/content/events/604/thumb/DSC00684.jpg'},
+      {img: '/content/events/604/DSC00685.jpg', thumb: '/content/events/604/thumb/DSC00685.jpg'},
+
+
+      {img: '/content/events/604/DSC00911.jpg', thumb: '/content/events/604/thumb/DSC00911.jpg'},
+      {img: '/content/events/604/DSC00690.jpg', thumb: '/content/events/604/thumb/DSC00690.jpg'},
+      {img: '/content/events/604/DSC00909.jpg', thumb: '/content/events/604/thumb/DSC00909.jpg'},
+
+      {img: '/content/events/604/DSC00912.jpg', thumb: '/content/events/604/thumb/DSC00912.jpg'},
+      {img: '/content/events/604/DSC00915.jpg', thumb: '/content/events/604/thumb/DSC00915.jpg'},
+      {img: '/content/events/604/DSC00916.jpg', thumb: '/content/events/604/thumb/DSC00916.jpg'},
+      {img: '/content/events/604/DSC00919.jpg', thumb: '/content/events/604/thumb/DSC00919.jpg'},
+      {img: '/content/events/604/DSC00921.jpg', thumb: '/content/events/604/thumb/DSC00921.jpg'},
+      {img: '/content/events/604/DSC00922.jpg', thumb: '/content/events/604/thumb/DSC00922.jpg'},
+      {img: '/content/events/604/DSC00929.jpg', thumb: '/content/events/604/thumb/DSC00929.jpg'},
+      {img: '/content/events/604/DSC00930.jpg', thumb: '/content/events/604/thumb/DSC00930.jpg'},
+      {img: '/content/events/604/DSC00931.jpg', thumb: '/content/events/604/thumb/DSC00931.jpg'},
+      {img: '/content/events/604/DSC00933.jpg', thumb: '/content/events/604/thumb/DSC00933.jpg'},
+      {img: '/content/events/604/DSC00935.jpg', thumb: '/content/events/604/thumb/DSC00935.jpg'},
+      {img: '/content/events/604/DSC00936.jpg', thumb: '/content/events/604/thumb/DSC00936.jpg'},
+
+      {img: '/content/events/604/DSC01047.jpg', thumb: '/content/events/604/thumb/DSC01047.jpg'},
+      {img: '/content/events/604/DSC01021.jpg', thumb: '/content/events/604/thumb/DSC01021.jpg'},
+      {img: '/content/events/604/DSC01022.jpg', thumb: '/content/events/604/thumb/DSC01022.jpg'},
+      {img: '/content/events/604/DSC01028.jpg', thumb: '/content/events/604/thumb/DSC01028.jpg'},
+      {img: '/content/events/604/DSC01031.jpg', thumb: '/content/events/604/thumb/DSC01031.jpg'},
+      {img: '/content/events/604/DSC01033.jpg', thumb: '/content/events/604/thumb/DSC01033.jpg'},
+      {img: '/content/events/604/DSC01034.jpg', thumb: '/content/events/604/thumb/DSC01034.jpg'},
+      {img: '/content/events/604/DSC01035.jpg', thumb: '/content/events/604/thumb/DSC01035.jpg'},
+      {img: '/content/events/604/DSC01037.jpg', thumb: '/content/events/604/thumb/DSC01037.jpg'},
+      {img: '/content/events/604/DSC01041.jpg', thumb: '/content/events/604/thumb/DSC01041.jpg'},
+      {img: '/content/events/604/DSC01045.jpg', thumb: '/content/events/604/thumb/DSC01045.jpg'},
+
+
+    ]
+
+  	});
+
+
+
+  $('.training-haz30').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/services/training/photo-haz30/300.jpg', thumb: '/content/services/training/photo-haz30/thumb/300.jpg'},
+{img: '/content/services/training/photo-haz30/301.jpg', thumb: '/content/services/training/photo-haz30/thumb/301.jpg'},
+{img: '/content/services/training/photo-haz30/302.jpg', thumb: '/content/services/training/photo-haz30/thumb/302.jpg'},
+{img: '/content/services/training/photo-haz30/303.jpg', thumb: '/content/services/training/photo-haz30/thumb/303.jpg'},
+{img: '/content/services/training/photo-haz30/304.jpg', thumb: '/content/services/training/photo-haz30/thumb/304.jpg'},
+{img: '/content/services/training/photo-haz30/305.jpg', thumb: '/content/services/training/photo-haz30/thumb/305.jpg'},
+{img: '/content/services/training/photo-haz30/306.jpg', thumb: '/content/services/training/photo-haz30/thumb/306.jpg'},
+{img: '/content/services/training/photo-haz30/307.jpg', thumb: '/content/services/training/photo-haz30/thumb/307.jpg'},
+{img: '/content/services/training/photo-haz30/308.jpg', thumb: '/content/services/training/photo-haz30/thumb/308.jpg'},
+{img: '/content/services/training/photo-haz30/309.jpg', thumb: '/content/services/training/photo-haz30/thumb/309.jpg'},
+{img: '/content/services/training/photo-haz30/310.jpg', thumb: '/content/services/training/photo-haz30/thumb/310.jpg'},
+{img: '/content/services/training/photo-haz30/311.jpg', thumb: '/content/services/training/photo-haz30/thumb/311.jpg'},
+{img: '/content/services/training/photo-haz30/312.jpg', thumb: '/content/services/training/photo-haz30/thumb/312.jpg'},
+{img: '/content/services/training/photo-haz30/313.jpg', thumb: '/content/services/training/photo-haz30/thumb/313.jpg'},
+{img: '/content/services/training/photo-haz30/314.jpg', thumb: '/content/services/training/photo-haz30/thumb/314.jpg'},
+{img: '/content/services/training/photo-haz30/315.jpg', thumb: '/content/services/training/photo-haz30/thumb/315.jpg'},
+{img: '/content/services/training/photo-haz30/316.jpg', thumb: '/content/services/training/photo-haz30/thumb/316.jpg'},
+{img: '/content/services/training/photo-haz30/317.jpg', thumb: '/content/services/training/photo-haz30/thumb/317.jpg'},
+{img: '/content/services/training/photo-haz30/318.jpg', thumb: '/content/services/training/photo-haz30/thumb/318.jpg'},
+
+
+
+
+    ]
+
+  	});
+
+
+  $('.training-yak52').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/services/training/photo-yak52/400.jpg', thumb: '/content/services/training/photo-yak52/thumb/400.jpg'},
+{img: '/content/services/training/photo-yak52/401.jpg', thumb: '/content/services/training/photo-yak52/thumb/401.jpg'},
+{img: '/content/services/training/photo-yak52/402.jpg', thumb: '/content/services/training/photo-yak52/thumb/402.jpg'},
+{img: '/content/services/training/photo-yak52/403.jpg', thumb: '/content/services/training/photo-yak52/thumb/403.jpg'},
+{img: '/content/services/training/photo-yak52/404.jpg', thumb: '/content/services/training/photo-yak52/thumb/404.jpg'},
+{img: '/content/services/training/photo-yak52/405.jpg', thumb: '/content/services/training/photo-yak52/thumb/405.jpg'},
+{img: '/content/services/training/photo-yak52/406.jpg', thumb: '/content/services/training/photo-yak52/thumb/406.jpg'},
+{img: '/content/services/training/photo-yak52/407.jpg', thumb: '/content/services/training/photo-yak52/thumb/407.jpg'},
+{img: '/content/services/training/photo-yak52/408.jpg', thumb: '/content/services/training/photo-yak52/thumb/408.jpg'},
+
+
+
+    ]
+
+  	});
+
+    $('.training-yak18t').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/services/training/photo-yak18t/500.jpg', thumb: '/content/services/training/photo-yak18t/thumb/500.jpg'},
+{img: '/content/services/training/photo-yak18t/501.jpg', thumb: '/content/services/training/photo-yak18t/thumb/501.jpg'},
+{img: '/content/services/training/photo-yak18t/502.jpg', thumb: '/content/services/training/photo-yak18t/thumb/502.jpg'},
+{img: '/content/services/training/photo-yak18t/503.jpg', thumb: '/content/services/training/photo-yak18t/thumb/503.jpg'},
+{img: '/content/services/training/photo-yak18t/504.jpg', thumb: '/content/services/training/photo-yak18t/thumb/504.jpg'},
+{img: '/content/services/training/photo-yak18t/505.jpg', thumb: '/content/services/training/photo-yak18t/thumb/505.jpg'},
+{img: '/content/services/training/photo-yak18t/506.jpg', thumb: '/content/services/training/photo-yak18t/thumb/506.jpg'},
+
+    ]
+
+  	});
+
+
+  $('.training-an2').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/services/training/photo-an2/600.jpg', thumb: '/content/services/training/photo-an2/thumb/600.jpg'},
+{img: '/content/services/training/photo-an2/601.jpg', thumb: '/content/services/training/photo-an2/thumb/601.jpg'},
+{img: '/content/services/training/photo-an2/602.jpg', thumb: '/content/services/training/photo-an2/thumb/602.jpg'},
+{img: '/content/services/training/photo-an2/603.jpg', thumb: '/content/services/training/photo-an2/thumb/603.jpg'},
+{img: '/content/services/training/photo-an2/604.jpg', thumb: '/content/services/training/photo-an2/thumb/604.jpg'},
+{img: '/content/services/training/photo-an2/605.jpg', thumb: '/content/services/training/photo-an2/thumb/605.jpg'},
+{img: '/content/services/training/photo-an2/606.jpg', thumb: '/content/services/training/photo-an2/thumb/606.jpg'},
+{img: '/content/services/training/photo-an2/607.jpg', thumb: '/content/services/training/photo-an2/thumb/607.jpg'},
+{img: '/content/services/training/photo-an2/608.jpg', thumb: '/content/services/training/photo-an2/thumb/608.jpg'},
+{img: '/content/services/training/photo-an2/609.jpg', thumb: '/content/services/training/photo-an2/thumb/609.jpg'},
+{img: '/content/services/training/photo-an2/610.jpg', thumb: '/content/services/training/photo-an2/thumb/610.jpg'},
+{img: '/content/services/training/photo-an2/611.jpg', thumb: '/content/services/training/photo-an2/thumb/611.jpg'},
+
+    ]
+
+  	});
+
+
+  $('.training-ak13').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/services/training/photo-ak13/700.jpg', thumb: '/content/services/training/photo-ak13/thumb/700.jpg'},
+{img: '/content/services/training/photo-ak13/701.jpg', thumb: '/content/services/training/photo-ak13/thumb/701.jpg'},
+{img: '/content/services/training/photo-ak13/702.jpg', thumb: '/content/services/training/photo-ak13/thumb/702.jpg'},
+{img: '/content/services/training/photo-ak13/703.jpg', thumb: '/content/services/training/photo-ak13/thumb/703.jpg'},
+{img: '/content/services/training/photo-ak13/704.jpg', thumb: '/content/services/training/photo-ak13/thumb/704.jpg'},
+{img: '/content/services/training/photo-ak13/705.jpg', thumb: '/content/services/training/photo-ak13/thumb/705.jpg'},
+{img: '/content/services/training/photo-ak13/706.jpg', thumb: '/content/services/training/photo-ak13/thumb/706.jpg'},
+{img: '/content/services/training/photo-ak13/707.jpg', thumb: '/content/services/training/photo-ak13/thumb/707.jpg'},
+
+
+    ]
+
+  	});
+
+
+  $('.training-mi2').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/services/training/photo-mi2/800.jpg', thumb: '/content/services/training/photo-mi2/thumb/800.jpg'},
+{img: '/content/services/training/photo-mi2/801.jpg', thumb: '/content/services/training/photo-mi2/thumb/801.jpg'},
+{img: '/content/services/training/photo-mi2/802.jpg', thumb: '/content/services/training/photo-mi2/thumb/802.jpg'},
+{img: '/content/services/training/photo-mi2/803.jpg', thumb: '/content/services/training/photo-mi2/thumb/803.jpg'},
+{img: '/content/services/training/photo-mi2/804.jpg', thumb: '/content/services/training/photo-mi2/thumb/804.jpg'},
+{img: '/content/services/training/photo-mi2/805.jpg', thumb: '/content/services/training/photo-mi2/thumb/805.jpg'},
+    ]
+
+  	});
+
+  $('.training-alouette').fotorama({
+
+  width: '100%',
+  maxwidth: '100%',
+  ratio: 16/9,
+  allowfullscreen: true,
+  nav: 'thumbs',
+  loop: true,
+
+   data: [
+
+{img: '/content/events/519/100.jpg', thumb: '/content/services/training/thumb/alouette100.jpg'},
+{img: '/content/events/519/01.jpg', thumb: '/content/services/training/thumb/alouette01.jpg'},
+{img: '/content/events/519/02.jpg', thumb: '/content/services/training/thumb/alouette02.jpg'},
+{img: '/content/events/519/03.jpg', thumb: '/content/services/training/thumb/alouette03.jpg'},
+{img: '/content/events/519/04.jpg', thumb: '/content/services/training/thumb/alouette04.jpg'},
+{img: '/content/events/519/05.jpg', thumb: '/content/services/training/thumb/alouette05.jpg'},
+{img: '/content/events/519/06.jpg', thumb: '/content/services/training/thumb/alouette06.jpg'},
+
+    ]
+
+  	});
+
+
+});
+</script>
+
+
+<div class="m480 m360">
+
+ <ul class="aside-links aside-links-small" style="margin-bottom:15px;">
+	<li><a href="#ppl"><b>Програма навчання курс PPL (A/H)</b></a></li>
+	<li><a href="#price">Вартість навчання</a></li>
+	<li><a href="#pilots">Льотно-інструкторський склад</a></li>
+	<li><a href="#aerotechnics">Техніка</a></li>
+	<li><a href="/airdrome/index.html">Аеродром</a></li>
+	<li><a href="/services/training-registration.html">Що потрібно для запису</a></li>
+	<li><a href="#medical">Медкомісія</a></li>
+	<li><a href="#questions">Форма для питань</a></li>
+	<li><a><b>Для запису до школи пілотів:</b><br /><br />+38 057 717-74-25<br /><br />+38 095 659-80-28</a></li>
+
+ </ul>
+
+</div>
+
+
+<a href="/services/ua/training-registration.html" style="text-decoration:none;color:#000;"><img src="/content/promo/b-ppl-ua.jpg" alt="" class="intext-img" style="margin-bottom:5px;" /></a>
+
+
+<p>АТО «Харківський аероклуб ім. В.С. Гризодубової ТСО України» здійснює підготовку приватних цивільних пілотів. Ми робимо небо відкритим! Розвиток авіації загального призначення в Україні - наш пріоритет. Програма підготовки PPL складається з двох частин:</p>
+<p><a href="/events/ua/679-kurs-podgotovki.html">Частина I - теоретична підготовка</a> (Харківський аероклуб, м.Харків, вул.Плеханівська, 16А, або аеродром «Коротич»).</p>
+<p>Частина II - льотна підготовка (<a href="/airdrome/ua/index.html">Аеродром «Коротич»</a>, Харківська обл., сел.Коротич, вул.Сонячна, 42).</p>
+
+
+
+
+<p>Досвідчені інструктори аероклубу готують льотні кадри на таких типах техніки: <a href="/aerotechnics/ua/haz30.html">ХАЗ-30</a>, <a href="/aerotechnics/ua/an2.html">Ан-2</a>, <a href="/aerotechnics/ua/yak18t.html">Як-18Т</a>, <a href="/aerotechnics/ua/yak52.html">Як-52</a>,  <a href="/aerotechnics/ua/mi2.html">Мі-2</a>, <a href="/aerotechnics/ua/alouette.html">Alouette - М III</a>.</p>
+<p><b>PPL (Private Pilot License)</b> - свідоцтво приватного пілота, пілота-любителя.</p>
+<p>Пилот с лицензией <b>PPL</b> может выполнять полеты по личной необходимости и в свое удовольствие в одномоторном и многодвигательном (при наличии специальной подготовки) ВС в соответствии с правилами визуального полета VFR (Visual Flight Rules).</p>
+
+<ul class="article-list">
+    
+    <li>Курс підготовки приватного пілота  - <a href="#ppl">PPL (A)  private pilot licence</a></li>
+    <li>Курс підготовки приватного пілота  - <a href="#ppl">PPL (Н) private pilot licence</a></li>
+</ul>
+
+
+<p><b>Для запису на курси приватних пілотів у Харківському аероклубі телефонуйте: +38 057 717-74-25</b></p>
+
+
+<article class="subtext">
+
+<p>Для зарахування на курс підготовки приватного пілота необхідно надати такі документи:</p>
+<ul class="article-list">
+  <li>Копія паспорта (стор.1, 2, 11);</li>
+    <li>Копія ідентифікаційного коду;</li>
+    <li>Копія диплома (атестата) про освіту;</li>
+    <li>Фото 3х4 (3 шт.);</li>
+    <li><a href="/content/events/572/student.doc">Файл студента <b>(завантажити) </b></a>;</li>
+    <li><a href="/content/events/572/zajava.doc">Заява  <b> (завантажити) </b></a>;</li>
+    <li>Договір (дод.угода) - підписується безпосередньо в аероклубі.</li>
+</ul>
+
+<p>Для отримання консультації та підтвердження реєстрації на курс - приїжджайте в Харківський аероклуб в робочий час в будні дні за адресою:<br />
+м.Харків, вул.Плеханівська, 16А, 3.пов.</p>
+<p>Попередню реєстрацію можна пройти онлайн: </p>
+
+<a href="/services/ua/training-registration.html" class="button1">Залишити заявку</a>
+
+</article>
+
+
+<br />
+<div class="training1"></div>
+<br /> <br />
+
+
+
+
+
+<h3  class="skydiving"  id="ppl">Програма підготовки<br /><b>PPL (Private Pilot License) (А)/(Н)</b></h3>
+
+
+<p>Курс первинної підготовки приватного пілота одномоторного літака або вертольота. </p>
+<p>Підготовка приватних пілотів в Харківському аероклубі включає 132 години теоретичної підготовки і 45 годин льотної підготовки, включаючи сертифікаційну перевірку інструктором-екзаменатором. Ліцензію можна отримати по досягненню повних 17 років.</p>
+<p>Студент-пілот перед проходженням Програми льотної підготовки повинен мати дійсний медичний сертифікат не нижче 2-го класу, виданий відповідно до вимог Part-MED.</p>
+<p>Тривалість курсу (при безперервному навчанні): до 1 року.</p>
+<p>Початківці-авіатори вивчають теорію в класах, після чого приступають до освоєння техніки для польотів. Групи набираються за мірою комплектування. Після успішного завершення навчання з інструкторами аероклубу Державіаслужба України проводить екзамен з теоретичної підготовки і видає посвідчення приватного пілота.</p>
+<h3 class="skydiving">Теоретична підготовка: 132 години</h3>
+<p>Для того, щоб отримати свідоцтво приватного пілота, необхідно пройти <a href="/events/ua/679-kurs-podgotovki.html">132 години теоретичної підготовки</a> - в класах і на зразках техніки. Студенти вивчають 9 дисциплін:</p>
+
+	<ul class="article-list">
+    <li><a href="/events/ua/688-vozdushnoe-pravo.html">Повітряне право</a></li>
+    <li><a href="/events/ua/682-svedeniya-o-vozdushnom-sudne.html">Загальні відомості про ПС</a></li>
+    <li><a href="/events/ua/698-letnie-harakteristiki.html">Льотні характеристики і планування</a></li>
+    <li><a href="/events/ua/700-vozmojnosti-organisma.html">Можливості людського організму</a></li>
+    <li><a href="/events/ua/717-meteorology.html">Метеорологія</a></li>
+    <li><a href="/events/ua/724-navigation.html">Навігація</a></li>
+    <li><a href="/events/ua/725-expluatacionnie-proceduri.html">Експлуатаційні процедури</a></li>
+    <li><a href="/events/ua/692-principi-poleta.html">Принципи польоту</a></li>
+    <li><a href="/events/ua/720-communication.html">Зв’язок</a></li>
+	</ul>
+
+<div class="training4 photoslides"></div>
+
+<p>Завершується теоретична підготовка внутрішніми іспитами, які включають контрольні питання з усіх дисциплін. На кожен іспит дається 4 спроби впродовж одного року. Якщо слухач не здав теоретичну підготовку, то йому призначається додаткова підготовка в об'ємі, який визначатиметься спільно з Державіаслужбою. У разі успішної здачі іспитів комісія екзаменаторів дає рекомендацію для того, щоб кандидат на отримання приватного пілотського свідоцтва складав іспит в Державіаслужбі України. </p>
+<p>Можливе поєднання теоретичної і льотної підготовки після успішного проходження спеціальних дисциплін.</p>
+
+<p class="article-spoiler-link"><b><a onclick="jQuery('#spoiler-679').toggle();">Докладніше</a></b></p>
+
+<div id="spoiler-679" style="display:none;">
+
+<article>
+
+<p>Навчання пілотуванню легких літаків починається найчастіше з ознайомчого польоту. В повітрі пілот-інструктор демонструє можливості повітряного судна, і за відповідних умов дає гостю повітряної прогулянки управління. Багатьом здається, що у них відразу все виходить, але, щоб переконатися в цьому і справді вміти приймати правильні рішення на всіх етапах польоту, потрібно впевнено знати теорію основоположних авіаційних дисциплін. На скрупульозне вивчення предметів, затверджених в Програмі курсу PPL, відводиться 132 години. При успішній здачі внутрішніх іспитів слухач школи пілотів допускається до льотної програми курсу. Свідоцтво про проходження блоку теорії дійсно 24 місяці.</p><div class='section group'>
+<div class='col span_6_of_12'>
+<a href="/content/events/679/100.jpg" class='lightview' data-lightview-group='e679' data-lightview-group-options="skin: 'light'"><img src="/content/events/679/thumb/100.jpg" alt=""  class='intext-img' /></a>
+</div>
+<div class='col span_6_of_12'>
+<p>Програма підготовки PPL (A) складається з частин теорії, наземної підготовки та льотної підготовки, спирається на Повітряний кодекс України та Авіаційні правила України «Технічні вимоги та адміністративні процедури для льотних екіпажів цивільної авіації», затверджені наказом Державіаслужби України. Метою програми підготовки приватного пілота PPL (A) є підготовка студента-пілота до виконання функцій PIC на літаках під час некомерційних польотів, які не передбачають винагороди.</p>
+</div>
+</div>
+<p>Групи навчання формуються при наборі від 8 слухачів незалежно від сезону. Вікових обмежень немає. Отримання ліцензії PPL (A) можливо при досягненні 17 років.</p>
+<h3>Теоретична підготовка: 132 години</h3>
+<p>Підготовку курсу теорії в рамках Програми РPL (A) АТО «Харківського аероклубу ім.В.С.Гризодубової ТСОУ» проводять наземні і льотні інструктори на базі Харківського аероклубу за адресою: м.Харків, вул.Плеханівська, 16-А, і безпосередньо на зразках діючої техніки на аеродромі «Коротич».</p>
+<div class='section group'>
+<div class='col span_6_of_12'>
+<a href="/content/events/498/01.jpg" class='lightview' data-lightview-group='e679' data-lightview-group-options="skin: 'light'"><img src="/content/events/498/thumb/01.jpg" alt=""  class='intext-img' /></a>
+</div>
+<div class='col span_6_of_12'>
+<a href="/content/events/604/DSC00668.jpg" class='lightview' data-lightview-group='e679'><img src="/content/events/679/thumb/668.jpg" alt=""  class='intext-img' /></a>
+</div>
+</div>
+<p>Програма теоретичної підготовки для отримання свідоцтва приватного пілота РPL (A) Курсу є її складовою частиною, але може бути і окремим курсом для кандидатів на навчання.</p>
+<p><b>Як проходить теоретична підготовка?</b></p>
+<p>Загальний період проходження теоретичної підготовки складає найчастіше 5 - 9 тижнів. Методика навчання в льотній школі полягає в презентації матеріалів у запису і візуально. Розповідь, демонстрація, спільне відпрацювання, контроль. Різні види інструктажів та брифінгів. Самостійна підготовка.</p>
+<p>Оцінювання теоретичної підготовки. Студент-пілот письмово складає іспити з кожної дисципліни. Іспит вважається успішно пройденим, якщо слухач дав 75% правильних відповідей.</p>
+<p>Свідоцтво про проходження теоретичної підготовки дає право слухачеві льотної школи перебувати на борту ПС і бути включеним в польотне завдання для проходження програми польотної підготовки. Після основної частини теорії за бажанням починаються польоти за наявності сприятливих погодних умов.</p>
+<p><b>Навчальний план</b> Программы теоретической подготовки для получения Свидетельства частного пилота РPL(A) рассчитан на 132 часа подготовки и включает 9 дисциплин:</p>
+<ul class="article-list">
+<li><strong>Загальні предмети:</strong><br />
+1. <a href="/events/ua/688-vozdushnoe-pravo.html">Повітряне право (12 годин)</a>;<br />
+2. <a href="/events/ua/700-vozmojnosti-organisma.html">Можливості людського організму (8 годин);</a><br />
+3. <a href="/events/ua/717-meteorology.html">Метеорологія (16 годин)</a>;<br />
+4. <a href="/events/ua/720-communication.html">Зв'язок (12 годин)</a>.
+</li>
+<li><strong>Спеціальні предмети для певних категорій ПС:</strong><br />
+1. <a href="/events/ua/692-principi-poleta.html">Принципи польоту (18 годин)</a>;<br />
+2. <a href="/events/ua/725-expluatacionnie-proceduri.html">Експлуатаційні процедури (12 годин);</a><br />
+3. <a href="/events/ua/698-letnie-harakteristiki.html">Льотні характеристики і планування (12 годин)</a>;<br />
+4. <a href="/events/ua/682-svedeniya-o-vozdushnom-sudne.html">Загальні відомості про ПС (24 години);</a><br />
+5. <a href="/events/ua/724-navigation.html">Навігація (18 годин)</a>.
+</li>
+</ul>
+
+</article>
+
+</div>
+
+
+<h3 class="skydiving">Льотна підготовка</h3>
+
+<p><b>Необхідний наліт: 45 годин</b></p>
+
+<p>В підготовку входить льотна практика на вибраному ПС.</p>
+<p><b>PPL (А):</b>  <a href="/aerotechnics/ua/haz30.html">ХАЗ-30</a>, <a href="/aerotechnics/ua/an2.html">Ан-2</a>, <a href="/aerotechnics/ua/yak18t.html">Як-18Т</a>, <a href="/aerotechnics/ua/yak52.html">Як-52</a></p>
+<p><b>PPL (Н):</b> <a href="/aerotechnics/ua/mi2.html">Мі-2</a>, <a href="/aerotechnics/ua/alouette.html">Alouette - М III</a>. </p>
+
+<p>Польоти виконуються з <a href="/airdrome/ua/index.html">аеродрому «Коротич»</a>.</p>
+
+<div class='section group'>
+<div class='col span_6_of_12'>
+<a href="/content/events/143/12.jpg" class='lightview' data-lightview-group='training' data-lightview-group-options="skin: 'light'"><img src="/content/events/143/thumb/12.jpg" alt="" class='intext-img' /></a>
+</div>
+<div class='col span_6_of_12'>
+<a href="/content/results2018/photo/13.jpg" class='lightview' data-lightview-group='training'><img src="/content/results2018/photo/13.jpg " alt=""  class='intext-img' /></a>
+</div>
+</div>
+
+
+
+
+<div class='section group'>
+<div class='col span_2_of_12'>
+</div>
+<div class='col span_8_of_12'>
+<iframe src="https://www.youtube.com/embed/imkZGL65FYY"  allowfullscreen></iframe>
+</div>
+<div class='col span_2_of_12'>
+</div>
+</div>
+
+
+<p>Практичне навчання складається з 45 годин польотів з декількох видів підготовки - польоти по колу, в зону, польоти по маршруту і польоти з посадкою на незнайомому аеродромі. Навички польотів по маршруту студенти-пілоти отримують, вилітаючи в Полтаву, Дніпро, Суми або інші міста на розсуд слухача. При цьому відпрацьовується техніка пілотування, радіообмін, навігація, орієнтування і т.д. </p>
+
+<p>При цьому претендент на отримання ліцензії PPL (A) повинен мати не менше 10 годин самостійного нальоту під наглядом інструктора, в тому числі - не менше 5 годин самостійного маршрутного нальоту і хоча б один <a href="/events/ua/787-interntational-airports.html">маршрутний політ на відстань понад 270 км (150 морських миль) з повними посадками на 2 аеродромах, які не є аеродромами вильоту</a>.</p>
+
+<p>І. Підготовчий етап: 20 годин наземної підготовки <br />
+ІІ. Початковий етап: 13.30 годин<br />
+ІІІ. Етап удосконалення навичок в пілотуванні по колу і в зоні: 13 годин<br />
+ІV. Етап візуальної аеронавігації: 16 годин<br />
+V. Екзаменаційний етап: 1.30 години</p>
+
+<div class="training3 photoslides"></div>
+
+<h3 class="skydiving">Іспит</h3>
+<p>Після виконання льотної програми в повному обсязі призначається кваліфікаційна сертифікаційна перевірка практичних навичок і умінь студента інструкторами, призначеними Державіаслужбою України.</p>
+<p>Комплексний іспит включає 120 питань з 9 дисциплін.</p>
+<p>При успішній здачі іспитів, Державіаслужба виписує свідоцтво приватного пілота, після чого польоти можуть виконуватися як по території України, так і в повітряному просторі іноземних держав, при проходженні пілотом додатково курсу англійської мови в спеціалізованому закладі. Права власника сертифікату PPL полягають у виконанні функцій PIC на одномоторних поршневих сухопутних літаках до 5700 тон і можливістю перевезення не більше 6 пасажирів.</p>
+<p>Приватні пілоти мають право на польоти на орендованих або приватних літаках, а також мають можливість пройти перепідготовку на інший конкретний тип літального апарату. Також, маючи свідоцтво приватного пілота, простіше отримати свідоцтво комерційного пілота : для цього наліт повинен скласти не менше 150 годин. Кандидатові необхідно пройти модульний курс комерційних пілотів. </p>
+
+
+
+<div class="training2"></div>
+<br /> <br />
+
+
+<h3 class="skydiving" id="medical">Лікарсько-льотна екзаменаційна комісія</h3>
+
+<p>Власникам ліцензії приватного пілота необхідно мати діючий медичний сертифікат здоров'я 2 класу. Комерційні і лінійні пілоти, штурмани і бортінженери проходять ВЛЕК за 1-м класом. Сертифікат здоров'я 2 класу дійсний протягом 5 років для осіб у віці до 35 років, протягом двох років - після 40 років, і протягом року - після 50 років. Сертифікат здоров'я 1 класу потрібно підтверджувати щороку.</p><p>Медичний сертифікат необхідно мати вже на етапі льотної практики під час проходження навчання. Наявність документа входить до переліку умов для допуску до першого самостійного вильоту</p>
+<p>Якщо у вас є сумніви в доцільності льотного навчання через будь-які особливості здоров'я, необхідно зв'язатися з фахівцями медичних центрів, уповноважених проводити обстеження такого рівня, і проконсультуватися.</p>
+<p>Перелік необхідних обстежень та аналізів для проходження медкомісії призначається персонально фахівцями медичного центру, де ви вирішили пройти комісію.</p>
+<p>На сайті Державіаслужби України опублікований повний перелік установ, які мають повноваження на проведення медичної сертифікації авіаційного персоналу цивільної авіації.</p>
+<p>Наводимо актуальний список: <span class="article-spoiler-link"><b><a onclick="jQuery('#medicallist').toggle();">докладніше</a></b></span></p>
+<article class="subtext" style="display:none" id="medicallist">
+<p><strong>1. АеМС  НАУ</strong><br />
+03058,  м. Київ, пр-т Космонавта Комарова,1, АМЦ НАУ<br />
+044-406-77-69<br />
+044-406-72-15</p>
+<p><strong>2. АеМС МСЧ ЛА НАУ</strong><br />
+25005, м.Кіровоград, вул.Добровольського, 1, МСЧ<br />
+0522-34 40 42  </p>
+<p><strong>3. АеМС МСЧ РСП «Київцентраеро»</strong><br />
+08307, Київська обл., м.Бориспіль, аеропорт, МСЧ<br />
+044-351-60-55<br />
+044-351-62-43<br />
+044-351-60-74<br />
+044-351-67-27</p>
+<p><strong>4.  АеМС ТОВ «МА «Дніпропетровськ»</strong><br />
+49042, м. Дніпро, аеропорт, МСЧ<br />
+0562-39-54-19 </p>
+<p><strong>5. АеМС ДЗ «СМСЧ № 11»</strong><br />
+03057, м. Київ, вул. В. Гетьмана, 3<br />
+СМСЧ № 11<br />
+044-294-69-55</p>
+<p><strong>6. АеМС МСЧ КЛК НАУ</strong><br />
+39605 Полтавська область, м. Кременчук, вул. Перемоги 17/6,<br />
+тел. / (0536) 39 19 54</p>
+</article>
+
+
+<h3 class="skydiving" id="pilots">Льотно-інструкторський склад</h3>
+
+<p>Підготовку здійснює льотно-інструкторський склад Харківського аероклубу з великим досвідом підготовки як військових, так і цивільних курсантів:</p>
+
+<div class='section group'>
+<div class='col span_9_of_12'>
+
+<p><b>Філатов Сергій Миколайович</b></p>
+<p><span class="b_blue">&bull; Начальник Харківського аероклубу ім.В.С.Гризодубової ТСОУ<br />&bull; FI - інструктор<br />&bull; FЕ - екзаменатор</span></p>
+<p>Народився в сім'ї військовослужбовця - льотчика-інструктора Харківського Вищого військового училища льотчиків, закінчив Харківське Вище військове училище льотчиків (1993 г.), ХДПУ (2001 рік), ХНАУ ім.М.Є.Жуковського «ХАІ» (2017 г.).</p>
+<p>З 2007 року - на посаді керівника Харківського аероклубу.</p>
+<p>Льотчик - випробувач. Ведучий пілотажної групи Харківського аероклубу на реактивних літаках Л-29. За час льотної роботи освоїв літальні апарати: літаки Л-29, Л-39, Ан-74, Ан-28, Як-18т, Ан-2, Як-52, ХАЗ-30, По-2, вертольоти Мі-2, АК-1-3 і багато інших. Загальний наліт понад 6300 годин.</p>
+
+<p><b>Комін Сергій Гірейович</b></p>
+<p><span class="b_blue">&bull; Заступник начальника Харківського аероклубу ім.В.С.Гризодубової ТСОУ з організації льотної роботи<br />&bull; FI - інструктор, головний льотний інструктор Харківського аероклубу<br />&bull; FЕ - екзаменатор</span></p>
+<p>Закінчив Харківське ВВАУЛ (1984 г.). Наліт понад 7700 годин. Полковник запасу. Військовий льотчик-інструктор 1 класу. Майстер спорту з літакового спорту. Льотчик-випробувач. Літає на літаках Ан-74, Л-29, Л-39, Як-52, Як-18т, Ан-2, ХАЗ-30 та ін. Заступник начальника аероклубу з льотної частини, головний льотний інструктор Харківського аероклубу, льотчик пілотажної групи Харківського аероклубу на реактивних літаках Л-29.</p>
+
+<p><b>Туголуков Віктор Олександрович</b></p>
+<p><span class="b_blue">&bull; Начальник штабу Харківського аероклубу<br />&bull; FI - інструктор</span></p>
+<p>Льотчик-інструктор Харківського аероклубу. Начальник штабу Харківського аероклубу. Випускник ХАІ (2006 г.). Інженер-випробувач Харківського авіаційного заводу, брав участь у створенні літака ХАЗ-30. Освоїв літаки ХАЗ-30 і Ан-2. Наліт - понад 1900 годин.</p>
+
+<p><b>Терьошин Андрій Володимирович</b></p>
+<p><span class="b_blue">&bull; Заступник начальника Харківського аероклубу з якості<br />&bull; FI - інструктор</span></p>
+<p>Народився 19.12.74 в м.Охтирка Сумської області. В 1996 році закінчив Харківський інститут льотчиків. Пройшов усі посади від льотчика-інструктора до начальника льотно-методичного відділу. З 2013 по 2018 р.р. - працював начальником льотно-методичного відділу ХНУПС ім.І.М.Кожедуба. Полковник запасу, військовий льотчик-інструктор 1 класу. Освоїв літаки ХАЗ-30, Т-10М, Л-39, Як-18Т. Наліт 1550 годин.</p>
+
+<p><b>Хаєнко В'ячеслав Аркадійович</b></p>
+<p><span class="b_blue">&bull; Інспектор з безпеки польотів Харківського аероклубу ім.В.С.Гризодубової ТСОУ<br />&bull; FI - інструктор</span></p>
+<p>Закінчив Харківське ВВАУЛ в 1978 році, служив у ВПС СРСР, військовий льотчик 1-го класу, наліт на літаках МіГ-21 - 1100 годин, МіГ-29 - 200 годин.</p>
+<p>В 1990 р звільнений в запас за скороченням штатів, з 1991р. по 1992р. літав на Як-18Т на аеродромі «Коротич».</p>
+<p>В 1993 р перевчився в НТЦ «Авіалінії України», літав на Ан-24 - 1500 годин, на Л-410 - 6000 годин. КПС-інструктор, пілот 1 класу цивільної авіації. В даний час - інспектор Харківського аероклубу з безпеки польотів, льотчик-інструктор на літаку ХАЗ-30. Загальний наліт 11 500 годин.</p>
+
+<p><b>Дричак Микола Дмитрович</b></p>
+<p><span class="b_blue">&bull; FI - інструктор</span></p>
+<p>Закінчив Ставропольське ВВАУЛ ім. Маршала Судца в 1983 році, за час служби освоїв 5 типів літаків, налітав на винищувачах-перехоплювачах 1000 годин. Службу проходив у військах ППО на Чукотці і в Україні. З 1997 р. льотчик-інструктор ДОСААФ, наліт 41200 годин, освоїв близько 20 типів літальних апаратів, серед яких: Л-29, Су-15, Су-15ТМ, Як-18Т, ХАЗ-30, Як-52 та ін.</p>
+
+
+<p><b>Томілін Віктор Анатолійович</b></p>
+<p>Закінчив Єйське ВВАУЛ ім. В.М.Комарова в1977р. Військово-Повітряну Академію ім. Ю.Гагаріна в 1993р. Проходив службу у ВПС на посадах від льотчика до заступника командира авіаційної групи. Військовий льотчик 1 класу. Полковник запасу.</p>
+<p>Освоїв літаки: Л-29, УТІ МіГ-15, МіГ-17, Су-7, Су-7б, бм, БКЛ, Су-27, Су-24, Су-24м, Ан-14, Ан-26, Ту- 134УБЛ, Іл-76, Як-12, Як-18, Як-50, Як-52, Еvrostar, ST, Піонер-12, Аеропракт, Ан-2, TaRRagon, Л-13, вертольоти: Мі-2, Мі- 8, АК-1-3, АК-1-5, Enstrom, R-22, R-44, Bell-47, Safari, АК1-3м, SL-231, VV-2, Орлан, Лев-1, Оса, Fama.</p>
+<p>Провів повну програму льотних випробувань вертольотів АК-1-3, АК-1-3м, SL-231, VV-2. Загальний наліт на літаках 4370 год., На вертольотах 4300 год. Пілот-інструктор FA, TRA. Парашутист-інструктор, 840 стрибків з парашутом.</p>
+
+</div>
+<div class='col span_3_of_12'>
+<a href="/content/events/201/01.jpg" class='lightview' data-lightview-group='training'><img src="/content/events/201/thumb/01.jpg" alt=""  class='intext-img' /></a>
+</div>
+</div>
+
+
+
+
+<article class="subtext">
+<p>Уся підготовка проводиться в одній організації, на одному аеродромі і ми маємо в розпорядженні комплексну матеріально-технічну базу, щоб виконати навчання з нуля і до отримання сертифікату. </p>
+<p>Льотчики-інструктори-екзаменатори Харківського аероклубу за заявкою від приватних пілотів можуть виконувати кваліфікаційні та сертифікаційні перевірки.</p>
+</article>
+
+<p><b>Для запису до школи пілотів: +38 057 717-74-25</b></p>
+
+<h3 class="skydiving" id="aerotechnics">Техніка</h3>
+
+<div class='section group'>
+<div class='col span_6_of_12'>
+<p><b><a href="/aerotechnics/ua/haz30.html">ХАЗ-30</a></b></p>
+<div class="training-haz30"></div>
+</div>
+<div class='col span_6_of_12'>
+<p><b><a href="/aerotechnics/ua/yak52.html">Як-52</a></b></p>
+<div class="training-yak52"></div>
+</div>
+</div>
+
+
+<div class='section group'>
+<div class='col span_6_of_12'>
+<p><b><a href="/aerotechnics/ua/yak18t.html">Як-18Т</a></b></p>
+<div class="training-yak18t"></div>
+</div>
+<div class='col span_6_of_12'>
+<p><b><a href="/aerotechnics/ua/an2.html">Ан-2</a></b></p>
+<div class="training-an2"></div>
+</div>
+</div>
+
+
+<div class='section group'>
+
+<div class='col span_6_of_12'>
+<p><b><a href="/aerotechnics/ua/mi2.html">Мі-2</a></b></p>
+<div class="training-mi2"></div>
+</div>
+
+<div class='col span_6_of_12'>
+<p><b><a href="/aerotechnics/ua/alouette.html">Alouette - М III</a></b></p>
+<div class="training-alouette"></div>
+</div>
+
+</div>
+
+<div class='section group'>
+<div class='col span_6_of_12'>
+<img src="/content/services/training/101.jpg" alt=""  class='intext-img' />
+</div>
+<div class='col span_6_of_12'>
+<p>На літаках Л- 29 за індивідуальним рішенням Державіаслужби України можлива перепідготовка на цей тип.</p>
+</div>
+</div>
+
+
+
+
+<h3 class="skydiving" id="price">Вартість навчання</h3>
+
+
+
+<table class="table-price-school">
+<tr><th>Тип ПС</th><th>Вартість курсу теорії <b>PPL</b></th><th>Льотна година</th></tr>
+<tr><td>ХАЗ-30</td><td>11 500 грн. (група від 8 осіб)</td><td>5 400 грн.<br />(наліт для PPL (A): 45 годин) </td></tr>
+<tr><td>Як-18Т/Як-52</td><td> (група від 8 осіб)</td><td></td></tr>
+<tr><td>Ан-2 </td><td> (група від 8 осіб)</td><td></td></tr>
+<tr><td>Ми-2</td><td> (група від 6 осіб)</td><td></td></tr>
+<tr><td>Alouette - М III</td><td> (група від 6 осіб)</td><td></td></tr>
+</table>
+
+<p>Вартість льотної години може коливатися в залежності від цін на ПММ і інших складових</p>
+
+
+
+<h3 class="skydiving" id="questions">Ваші запитання</h3>
+
+
+
+
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeefd9to0y_5vDcfusczD1WoiRnyuzs39StzqlEBB41nzg_WA/viewform?embedded=true" style="width:100%;height:900px;" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
+
+
+<a href="/services/ua/training-registration.html"><img src="/content/events/582/school.jpg" class="intext-img" alt="" /></a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</article>
+
+	</div>
+
+	<div class="col span_4_of_12">
+	<aside class="sticky">
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <ul class="aside-links aside-links-small" style="margin-bottom:15px;">
+	<li><a href="#ppl"><b>Програма навчання курс PPL (A/H)</b></a></li>
+	<li><a href="#price">Вартість навчання</a></li>
+	<li><a href="#pilots">Льотно-інструкторський склад</a></li>
+	<li><a href="#aerotechnics">Техніка</a></li>
+	<li><a href="/airdrome/ua/index.html">Аеродром</a></li>
+	<li><a href="/services/ua/training-registration.html">Що потрібно для запису</a></li>
+	<li><a href="#medical">Медкомісія</a></li>
+	<li><a href="/about/ua/partnership-programs.html">Партнерські програми PPL/EASA, CPL/EASA, ATPL</a></li>
+	<li><a href="#questions">Форма для питань</a></li>
+	<li><a><b>Для запису до школи пілотів:</b><br /><br />+38 057 717-74-25<br /><br />+38 095 659-80-28</a></li>
+<li><a href="/events/ua/673-raspisanie-shkoli.html">Розклад курсу теорії PPL (A)</a></li>
+ </ul>
+
+
+
+
+<a href="/services/ua/training-registration.html" class="button1">Реєстрація на курс</a>
+
+
+
+<iframe src="https://drive.google.com/file/d/1pp3B7OXa5zc7vJm0TqSUXPeU5R21rmZj/preview" style="width:100%;height:500px"></iframe>
+
+<iframe src="https://www.youtube.com/embed/cg7CuPm8X1Y" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/0oGRP9Hzxpc" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/Y8H3H9kWepo" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/SWONm-sGzxY" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/VH-spnOrY3A" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/KM0VNnXbPVs" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/Pj0uDg-aV6I" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/P51eUSyjh5Y" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/cS8vWTjMCrw" allowfullscreen></iframe>
+<br /><iframe src="https://www.youtube.com/embed/vJ0laYmr3d4" allowfullscreen></iframe>
+<br />
+
+
+
+
+<article>
+<p><b>Відповіді на ваші запитання:</b></p>
+<p><a href="https://www.facebook.com/KorotychAerfield/">Facebook</a> | <a href="https://www.instagram.com/kharkivs_aeroclub/">Instagram</a> | <a href="mailto:avia_1925@ukr.net">avia_1925@ukr.net</a></p>
+<p><a href="mailto:art@aeroclub.net.ua">art@aeroclub.net.ua</a></p>
+<p><a href="tel:+380577177425">+38 057 717-74-25</a></p>
+</article>
+
+
+<h2 style="margin-top:10px;">Новини</h2>
+    <ul class="aside-news">
+         <li>     <a href="/events/ua/814-nabor-ppl.html">Відкрито набір до нової групи курсу PPL льотної школи Харківського аероклубу</a>
+     
+
+				<p><img src="/content/events/814/300nabor-ppl-img.jpg"  alt="Відкрито набір до нової групи курсу PPL льотної школи Харківського аероклубу" /></p>
+		
+
+     <p>Теоретичні заняття розраховані на 132 години. 9 дисциплін слухачі курсу опанують за 3 місяці, протягом вересня – грудня 2021 року. Розпочати теоретичну підготовку планується з 20 вересня на базі Харківського аероклубу (вул.Плеханівська, 16,А, 3 пов.). Група комплектується від 8 осіб. Льотна програма на літаку ХАЗ-30 виконується на аеродромі «Коротич» і складе 45 годин. Вікові обмеження: від 17 років</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/799-raspisanie-shkoli-july.html">Розклад занять 6-ї групи курсу PPL (A) на липень 2021</a>
+     
+
+				<p><img src="/content/events/799/300raspisanie-shkoli-july-img.jpg"  alt="Розклад занять 6-ї групи курсу PPL (A) на липень 2021" /></p>
+		
+
+     <p>Група №6 Льотної школи Харківського аероклубу продовжує теоретичні заняття за узгодженим з викладацьким складом графіком. 132 годин програми теоретичної підготовки добігають кінця. Триває набір до нової групи теоретичної підготовки, що стане до навчання у серпні. Слухачі опанують 9 дисциплін. Льотна практика відбувається паралельно з отриманням теоретичних знань. Польоти відбуваються на аеродромі «Коротич» на літаках ХАЗ-30 після складання внутрішніх іспитів з декількох предметів</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/788-perviy-samostoyatelniy.html">Льотна школа Харківського аероклубу. Перший самостійний</a>
+     
+
+				<p><img src="/content/events/788/300perviy-samostoyatelniy-img.jpg"  alt="Льотна школа Харківського аероклубу. Перший самостійний" /></p>
+		
+
+     <p>Керувати літаком - справа відповідальна, що вимагає зосередженості, спокою, знань в різних сферах і чіткості дій. Але даремно багато хто вважає, що професія «льотчик» - тільки чоловіча, адже в усі часи дівчата не тільки на словах боролися за гендерну рівність, а й справами доводили, що здатні скласти конкуренцію хлопцям навіть у небі. Кажуть, коли курсант вперше сам виконав політ по колу - це льотчик народився. Харківський аероклуб вітає слухачку курсу PPL нашої льотної школи Євгенію Файнер з першим самостійним вильотом на літаку ХАЗ-30!</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/787-interntational-airports.html">Польоти курсантів льотної школи Харківського аероклубу до міжнародних аеропортів</a>
+     
+
+				<iframe width="300" height="180" src="https://www.youtube.com/embed/V_C_OuM-zWI"  allowfullscreen></iframe><br />
+		
+
+     <p>Слухачі курсу PPL в ATO «Харківський аероклуб ім.В.С.Гризодубової» продовжують виконувати навчально-тренувальні польоти за програмою підготовки приватного пілота. Практична частина навчання складається з 45 годин польотів на літаку ХАЗ-30. Завершальний етап льотного навчання - маршрутні польоти тривалістю не менше 270 км з посадками в міжнародних аеропортах перед сертифікаційною перевіркою льотчиком-екзаменатором</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/776-letnaya-praktika.html">Льотна практика слухачів курсу PPL. Польоти до міжнародних аеропортів</a>
+     
+
+				<p><img src="/content/events/776/300letnaya-praktika-img.jpg"  alt="Льотна практика слухачів курсу PPL. Польоти до міжнародних аеропортів" /></p>
+		
+
+     <p>Курсанти школи пілотів Харківського аероклубу продовжують виконувати навчально-тренувальні польоти за програмою підготовки приватного пілота. Трьома бортами ХАЗ-30 з п'ятихвилинним інтервалом виконано черговий маршрутний політ аеродром «Коротич» - аеропорт «Полтава» - аеропорт «Основа» - аеродром «Коротич». Маршрутні польоти тривалістю не менше 270 км з посадками в міжнародних аеропортах - це завершальний етап льотної підготовки перед сертифікаційною перевіркою льотчиком-екзаменатором</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/773-samostoyatelnie-poleti.html">Льотна школа Харківського аероклубу. Самостійні польоти</a>
+     
+
+				<iframe width="300" height="180" src="https://www.youtube.com/embed/-KnSYLiSFmI"  allowfullscreen></iframe><br />
+		
+
+     <p>На аеродромі «Коротич» системно виконуються польоти курсантів Льотної школи Харківського аероклубу, які претендують на отримання приватного пілотського свідоцтва. Графіки польотів складають індивідуально льотні інструктори, польоти можна виконувати протягом усього тижня за наявності погодних умов. Після успішного проходження вивізної програми з інструктором (14 - 35 годин) курсанти допускаються до першого самостійного польоту. Самостійний наліт - беззаперечна перевага Школи пілотів Харківського аероклубу</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/768-raspisanie-shkoli.html">Розклад занять 6-ї групи курсу PPL (A) на червень 2021</a>
+     
+
+				<p><img src="/content/events/768/300raspisanie-shkoli-img.jpg"  alt="Розклад занять 6-ї групи курсу PPL (A) на червень 2021" /></p>
+		
+
+     <p>Група №6 Льотної школи Харківського аероклубу продовжує теоретичні заняття за узгодженим з викладацьким складом <a href="/events/ua/673-raspisanie-shkoli.html">графіком</a>. 132 годин програми теоретичної підготовки планується завершити в липні. Найближчим часом на слухачів школи пілотів чекає льотна практика на аеродромі «Коротич»</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/755-raspisanie-shkoli-may21.html">Розклад занять курсу PPL (A) на травень 2021</a>
+     
+
+				<p><img src="/content/events/755/300raspisanie-shkoli-may21-img.jpg"  alt="Розклад занять курсу PPL (A) на травень 2021" /></p>
+		
+
+     <p>Група №6 Льотної школи Харківського аероклубу стає до теоретичних занять завтра, 14 травня. 132 години програми теоретичної підготовки планується вкласти у 3 місяці навчання – з травня по липень. Льотну практику слухачі школи пілотів зможуть розпочати після складання іспитів із спеціальних дисциплін</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/752-new-group-ppl.html">Заняття нової групи курсу PPL (A) розпочнуться в Харківському аероклубі 14 травня</a>
+     
+
+				<p><img src="/content/events/752/300new-group-ppl-img.jpg"  alt="Заняття нової групи курсу PPL (A) розпочнуться в Харківському аероклубі 14 травня" /></p>
+		
+
+     <p>Школа пілотів Харківського аероклубу завершує набір групи на курс PPL (A). Бажаючі освоїти легкий літак і отримати ліцензію приватного пілота можуть подати заявку на навчання у Льотній школі Харківського аероклубу в адміністрацію клубу. Заняття нової групи курсу PPL (A) починаються у п’ятницю, 14 травня 2021 року. Курс теорії розрахований на травень – липень</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/737-partners-programs.html">Партнерські програми PPL / EASA, CPL / EASA, ATPL для слухачів льотної школи Харківського аероклубу</a>
+     
+
+				<p><img src="/content/events/737/300partners-programs-img.jpg"  alt="Партнерські програми PPL / EASA, CPL / EASA, ATPL для слухачів льотної школи Харківського аероклубу" /></p>
+		
+
+     <p>Харківський аероклуб ім.В.С.Гризодубової ТСОУ підписав Меморандум про співпрацю з льотною школою <a href="https://egmont.group/">Egmont Aviation</a>, розширюючи можливості <a href="/services/ua/training.html">Школи пілотів</a>. Випускники Школи пілотів Харківського аероклубу можуть продовжити навчання до рівня CPL, ATPL, частково виконуючи польоти льотної програми в Харкові (аеродром «Коротич»), а частково - в Словенії (м.Любляна). Перші власники сертифіката PPL ICAO вже готуються до процесу конвертації ліцензії в PPL EASA</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/735-conference.html">Матеріали конференції про партнерство льотних шкіл ATO «Харківський аероклуб», Egmont Aviation (Словенія), «Aeroclub du Premier Envol» (Франція)</a>
+     
+
+				<p><img src="/content/events/735/300conference-img.jpg"  alt="Матеріали конференції про партнерство льотних шкіл ATO «Харківський аероклуб», Egmont Aviation (Словенія), «Aeroclub du Premier Envol» (Франція)" /></p>
+		
+
+     <p>Харківський аероклуб ім.В.С.Гризодубової ТСОУ в 2021 році розпочинає тристороннє партнерство з льотними школами a href="https://egmont.group/">Egmont Aviation</a> і «<a href="https://www.premierenvol.info/">Aeroclub du Premier Envol</a>», розширюючи можливості Школи пілотів. Відбулася установча конференція з партнерами на тему отримання пілотських свідоцтв зразка EASA, конвертації ліцензій рівня ICAO в EASA, польотів українських пілотів країнами Євросоюзу, продовження льотного навчання до рівня CPL, ATPL, обміну досвідом в школах країн-партнерів. Також з доповіддю виступив вчений Юрій Богданов, презентуючи систему дистанційної пасивної діагностики стомлюваності</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/733-certificate-vpp.html">Харківський аероклуб отримав сертифікат постійного злітно-посадкового майданчика «Коротич»</a>
+     
+
+				<p><img src="/content/events/733/300certificate-vpp-img.jpg"  alt="Харківський аероклуб отримав сертифікат постійного злітно-посадкового майданчика «Коротич»" /></p>
+		
+
+     <p>Посвідчення про допуск до експлуатації <a href="/airdrome/ua/index.html">постійного злітно-посадкового майданчика №ЗПМ 20-246</a> дійсно до 25 лютого 2024 року. До уваги пілотів, які виконують польоти в районі злітно-посадкового майданчика «Коротич»: з 22 квітня 2021 року вводиться в дію нова Інструкція з виконання польотів в районі аеродрому</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/731-vrachebnaya-komissiya.html">Навчання у льотній школі. Лікарсько-екзаменаційна льотна комісія</a>
+     
+
+				<p><img src="/content/events/731/300vrachebnaya-komissiya-img.jpg"  alt="Навчання у льотній школі. Лікарсько-екзаменаційна льотна комісія" /></p>
+		
+
+     <p>Власникам ліцензії приватного пілота необхідно мати діючий медичний сертифікат здоров'я 2 класу. Комерційні і лінійні пілоти, штурмани і бортінженери проходять ВЛЕК за 1-м класом. Сертифікат здоров'я 2 класу дійсний протягом 5 років для осіб у віці до 35 років, протягом двох років - після 40 років, і протягом року - після 50 років. Сертифікат здоров'я 1 класу потрібно підтверджувати щороку</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/725-expluatacionnie-proceduri.html">Курс PPL в льотній школі Харківського аероклубу. Теоретична частина. Дисципліна «Експлуатаційні процедури»</a>
+     
+
+				<p><img src="/content/events/725/300expluatacionnie-proceduri-img.jpg"  alt="Курс PPL в льотній школі Харківського аероклубу. Теоретична частина. Дисципліна «Експлуатаційні процедури»" /></p>
+		
+
+     <p>132 години <a href="/events/ua/679-kurs-podgotovki.html">теоретичної підготовки</a> слухачі курсу PPL проходять, в середньому, за три місяці. На студентів чекає освоєння 9 дисциплін, які поділяються на загальні предмети і спеціальні предмети для певних категорій повітряних суден. У тому числі - спеціальний предмет «Експлуатаційні процедури», на вивчення якого відводиться 12 годин.</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/723-navigation.html">Курс PPL в льотній школі Харківського аероклубу. Теоретична частина. Дисципліна «Навігація»</a>
+     
+
+				<p><img src="/content/events/723/300navigation-img.jpg"  alt="Курс PPL в льотній школі Харківського аероклубу. Теоретична частина. Дисципліна «Навігація»" /></p>
+		
+
+     <p>Друзі, вже завтра починаються теоретичні заняття нової групи курсу PPL (А) в Харківському аероклубі. На слухачів чекає освоєння 9 дисциплін, які поділяються на загальні предмети і спеціальні предмети для певних категорій повітряних суден. А ми продовжуємо публікувати подробиці <a href="/services/ua/training.html#ppl">програми Курсу PPL</a> в Харківському аероклубі, і чекаємо вас на заняття в нашій льотній школі</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/722-sobesedovanie.html">Відбулася установча зустріч-співбесіда зі слухачами нової групи курсу PPL (A) в Харківському аероклубі</a>
+     
+
+				<p><img src="/content/events/722/300sobesedovanie-img.jpg"  alt="Відбулася установча зустріч-співбесіда зі слухачами нової групи курсу PPL (A) в Харківському аероклубі" /></p>
+		
+
+     <p>Теоретичні заняття зі студентами починаються 4 лютого 2021 року і будуть проходити в Харківському аероклубі по четвергах і суботах. Детальний розклад занять буде опубліковано на нашому сайті. Прохання до бажаючих навчатися, які не змогли бути присутніми на ознайомчій зустрічі, - в індивідуальному порядку подати документи в адміністрацію аероклубу до початку пар</p>
+
+
+     </li>
+          <li>     <a href="/events/ua/720-communication.html">Курс PPL в льотній школі Харківського аероклубу. Теоретична частина. Дисципліна «Зв'язок»</a>
+     
+
+				<p><img src="/content/events/720/300communication-img.jpg"  alt="Курс PPL в льотній школі Харківського аероклубу. Теоретична частина. Дисципліна «Зв'язок»" /></p>
+		
+
+     <p>132 години теорії <a href="/events/ua/679-kurs-podgotovki.html">програми курсу PPL</a> включають 9 дисциплін, які поділяються на загальні предмети і спеціальні предмети для певних категорій повітряних суден. Серед загальних предметів - дисципліна «Зв'язок», на вивчення якої відводиться 12 годин. Слухачі курсу PPL в процесі теоретичної підготовки вивчають фразеологію радіообміну, порядок і особливості здійснення радіозв'язку в повітряному просторі України та світу</p>
+
+
+     </li>
+     
+    </ul>
+<a href="/events/ua/pilotsschool.html" class="more_button">усі Новини</a><br /><br />&nbsp;<br /><br />
+
+
+    <ul class="aside-links">
+    <li><a href="/services/ua/skydiving.html">Стрибки з парашутом</a></li>    <li><a href="/services/ua/flight.html">Ознайомлювальні польоти</a></li>	<li><a href="/services/ua/giftcertificates.html">Подарункові сертифікати</a></li>        <li><a href="/services/ua/airexcursions.html">Повітряні екскурсії</a></li>
+    <li><a href="/services/ua/excursions.html">Екскурсії</a></li>    <li><a href="/services/ua/festivals.html">Фестивалі/Авіашоу</a></li>    <li><a href="/services/ua/photosessions.html">Фотосесії/зйомки</a></li>    <li><a href="/services/ua/chemical.html">Авіаційно-хімічні роботи</a></li>    <li><a href="/services/ua/airlineservices.html">Послуги авіакомпанії</a></li>	<li><a href="/services/ua/maintenance.html">Техобслуговування ПС</a></li>	<li><a href="/services/ua/airworthiness.html">Підтримання льотної придатності</a></li>    </ul>
+
+
+
+	</aside>
+	</div>
+
+
+
+
+</div>	</main><!-- .content -->
+
+</div><!-- .wrapper -->
+
+
+
+<footer class="footer">
+
+	<ul class="social-ico social-ico-mobile">
+	<li><a href="https://www.facebook.com/KorotychAerodrome" class="fb">Facebook</a></li>
+	<li><a href="https://youtube.com/c/ХарьковскийАэроклуб" class="yt">YouTube</a></li>
+ 	<li><a href="https://www.instagram.com/kharkiv_aeroclub/" class="in">Instagram</a></li>
+	</ul>
+
+
+<p>&copy; 2008-2021  - Харківський аероклуб ім. В.С. Гризодубової ТСОУ</p>
+<p>Копіювання матеріалів нашого сайту дозволено тільки за обов'язкового вказання прямого гіперпосилання</p>
+<p>Використано фотографії Вадима Бєлікова, Богдана Скотнікова, Олександра Шаніна, Дмитра Понасенкова, Олексія Слюсаренко, Алекса Гольца, Павла Капустіна, Владислава Ільчакова, Андрія Веселова, Гаррі Уейнрайта, Патріка Мінара, Генрі Віггерса, Томмі Пфайфера, Дмитра Хапіліна, Яни Ратушняк, Єгора Висоцького, Андрія Кутєпова, Кирила Маренича, Сергія Козлова, Сергія Бобка, Олексія Коновалова, Володимира Височина, Андрія Лазарева, Сергія Землянського а також фото з відкритих джерел</p>
+<p>Відеоматеріали: Віталій Гнідий, Олексій Жучков, Олександр Шанін, Андрій Кутєпов, Єгор Висоцький</p>
+</footer><!-- .footer -->
+
+</body>
+</html>
